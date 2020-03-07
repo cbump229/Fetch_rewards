@@ -37,4 +37,3 @@ Use the most appropriate tools to create a distance metrics between items and ra
 ### Evalue the Model
 Test the model by seeing how accurate the predictions are to a test sample of items. I would test the model on several items that are known to be very similar to each other. 
 >Example: Iron Man compared to Iron Man 2 should have be extremely close to each other in the testing phase.
-# Fetch_reco_repo
